@@ -1,6 +1,6 @@
 {
- "name": "Where are my Micro",
- "short_name": "Micros",
+ "name": "Y La Micro?",
+ "short_name": "Y La Micro?",
  "start_url": ".",
  "display": "standalone",
  "background_color": "#0E1720",
